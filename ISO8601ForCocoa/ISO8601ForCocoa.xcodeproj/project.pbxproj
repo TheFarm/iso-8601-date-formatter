@@ -10,40 +10,20 @@
 		027E31BD1A52DFCE00802098 /* ISO8601.h in Headers */ = {isa = PBXBuildFile; fileRef = 027E31BC1A52DFCE00802098 /* ISO8601.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		027E31D11A52DFE200802098 /* ISO8601DateFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 31AEAFF517546BFA00BD292F /* ISO8601DateFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		027E31D21A52DFEC00802098 /* ISO8601DateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 31AEAFF617546BFA00BD292F /* ISO8601DateFormatter.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		3119ABEF17FCF8F0003412AE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3119ABEE17FCF8F0003412AE /* UIKit.framework */; };
 		312D4C441B9CA7D300FF3602 /* ISO8601Testing.m in Sources */ = {isa = PBXBuildFile; fileRef = 312D4C431B9CA7D300FF3602 /* ISO8601Testing.m */; };
-		312D4C451B9CA7D600FF3602 /* ISO8601Testing.m in Sources */ = {isa = PBXBuildFile; fileRef = 312D4C431B9CA7D300FF3602 /* ISO8601Testing.m */; };
 		31419D9717E08256007B02E2 /* ISO8601ForCocoaWeekDateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 31419D9617E08256007B02E2 /* ISO8601ForCocoaWeekDateTests.m */; };
-		31419D9817E08256007B02E2 /* ISO8601ForCocoaWeekDateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 31419D9617E08256007B02E2 /* ISO8601ForCocoaWeekDateTests.m */; };
 		315096C21CC3EB61007E571D /* ISO8601ForCocoaTimeOnlyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3179B3EC17E94D5000CE9D95 /* ISO8601ForCocoaTimeOnlyTests.m */; };
-		315096C31CC3EB63007E571D /* ISO8601ForCocoaTimeOnlyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3179B3EC17E94D5000CE9D95 /* ISO8601ForCocoaTimeOnlyTests.m */; };
-		3198826517FCF2B0005FB1DA /* ISO8601MemoryWarningTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3198826417FCF2B0005FB1DA /* ISO8601MemoryWarningTests.m */; };
-		31A271B717CE9B5A00E3FA7D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31A271B617CE9B5A00E3FA7D /* Foundation.framework */; };
-		31A271C817CE9B5B00E3FA7D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31A271B617CE9B5A00E3FA7D /* Foundation.framework */; };
-		31A271CB17CE9B5B00E3FA7D /* libISO8601ForCocoaTouch.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 31A271B517CE9B5A00E3FA7D /* libISO8601ForCocoaTouch.a */; };
-		31A271D117CE9B5B00E3FA7D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 31A271CF17CE9B5B00E3FA7D /* InfoPlist.strings */; };
-		31A271DB17CE9C3A00E3FA7D /* ISO8601ForCocoaCalendarDateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 31AEAFEB17546BC900BD292F /* ISO8601ForCocoaCalendarDateTests.m */; };
-		31A271DC17CE9C5E00E3FA7D /* ISO8601DateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 31AEAFF617546BFA00BD292F /* ISO8601DateFormatter.m */; };
 		31A271DD17CE9E3500E3FA7D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31AEAFD117546BC800BD292F /* Foundation.framework */; };
 		31AEAFE317546BC800BD292F /* libISO8601ForCocoa.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 31AEAFC917546BC800BD292F /* libISO8601ForCocoa.a */; };
 		31AEAFE917546BC800BD292F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 31AEAFE717546BC800BD292F /* InfoPlist.strings */; };
 		31AEAFEC17546BC900BD292F /* ISO8601ForCocoaCalendarDateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 31AEAFEB17546BC900BD292F /* ISO8601ForCocoaCalendarDateTests.m */; };
-		31AEAFF717546BFB00BD292F /* ISO8601DateFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 31AEAFF517546BFA00BD292F /* ISO8601DateFormatter.h */; };
+		31AEAFF717546BFB00BD292F /* ISO8601DateFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 31AEAFF517546BFA00BD292F /* ISO8601DateFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		31AEAFF817546BFB00BD292F /* ISO8601DateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 31AEAFF617546BFA00BD292F /* ISO8601DateFormatter.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		3904FF2717CF34AE003603D1 /* MBMockLocale.m in Sources */ = {isa = PBXBuildFile; fileRef = 3904FF2417CF34AE003603D1 /* MBMockLocale.m */; };
-		3904FF2817CF34AE003603D1 /* MBMockLocale.m in Sources */ = {isa = PBXBuildFile; fileRef = 3904FF2417CF34AE003603D1 /* MBMockLocale.m */; };
 		3904FF2917CF34AE003603D1 /* NSLocale+UnitTestSwizzling.m in Sources */ = {isa = PBXBuildFile; fileRef = 3904FF2617CF34AE003603D1 /* NSLocale+UnitTestSwizzling.m */; };
-		3904FF2A17CF34AE003603D1 /* NSLocale+UnitTestSwizzling.m in Sources */ = {isa = PBXBuildFile; fileRef = 3904FF2617CF34AE003603D1 /* NSLocale+UnitTestSwizzling.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		31A271C917CE9B5B00E3FA7D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 31AEAFC117546BC800BD292F /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 31A271B417CE9B5A00E3FA7D;
-			remoteInfo = ISO8601ForCocoaTouch;
-		};
 		31AEAFE117546BC800BD292F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 31AEAFC117546BC800BD292F /* Project object */;
@@ -52,18 +32,6 @@
 			remoteInfo = ISO8601ForCocoa;
 		};
 /* End PBXContainerItemProxy section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		31A271B317CE9B5A00E3FA7D /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "include/${PRODUCT_NAME}";
-			dstSubfolderSpec = 16;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		027E31BB1A52DFCE00802098 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -78,10 +46,8 @@
 		3179B3EC17E94D5000CE9D95 /* ISO8601ForCocoaTimeOnlyTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ISO8601ForCocoaTimeOnlyTests.m; sourceTree = "<group>"; };
 		3198826317FCF2B0005FB1DA /* ISO8601MemoryWarningTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ISO8601MemoryWarningTests.h; sourceTree = "<group>"; };
 		3198826417FCF2B0005FB1DA /* ISO8601MemoryWarningTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ISO8601MemoryWarningTests.m; sourceTree = "<group>"; };
-		31A271B517CE9B5A00E3FA7D /* libISO8601ForCocoaTouch.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libISO8601ForCocoaTouch.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		31A271B617CE9B5A00E3FA7D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		31A271BA17CE9B5B00E3FA7D /* ISO8601ForCocoaTouch-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ISO8601ForCocoaTouch-Prefix.pch"; sourceTree = "<group>"; };
-		31A271C417CE9B5B00E3FA7D /* ISO8601ForCocoaTouchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ISO8601ForCocoaTouchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		31A271CE17CE9B5B00E3FA7D /* ISO8601ForCocoaTouchTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ISO8601ForCocoaTouchTests-Info.plist"; sourceTree = "<group>"; };
 		31A271D017CE9B5B00E3FA7D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		31AEAFC917546BC800BD292F /* libISO8601ForCocoa.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libISO8601ForCocoa.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -108,24 +74,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		31A271B217CE9B5A00E3FA7D /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				31A271B717CE9B5A00E3FA7D /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		31A271C017CE9B5B00E3FA7D /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3119ABEF17FCF8F0003412AE /* UIKit.framework in Frameworks */,
-				31A271C817CE9B5B00E3FA7D /* Foundation.framework in Frameworks */,
-				31A271CB17CE9B5B00E3FA7D /* libISO8601ForCocoaTouch.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,8 +169,6 @@
 			children = (
 				31AEAFC917546BC800BD292F /* libISO8601ForCocoa.a */,
 				31AEAFDD17546BC800BD292F /* ISO8601ForCocoaTests.xctest */,
-				31A271B517CE9B5A00E3FA7D /* libISO8601ForCocoaTouch.a */,
-				31A271C417CE9B5B00E3FA7D /* ISO8601ForCocoaTouchTests.xctest */,
 				31D981F31B9E5A35007CF1DA /* ISO8601DateFormatter.framework */,
 			);
 			name = Products;
@@ -335,41 +281,6 @@
 			productReference = 31D981F31B9E5A35007CF1DA /* ISO8601DateFormatter.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		31A271B417CE9B5A00E3FA7D /* ISO8601ForCocoaTouch */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 31A271D917CE9B5B00E3FA7D /* Build configuration list for PBXNativeTarget "ISO8601ForCocoaTouch" */;
-			buildPhases = (
-				31A271B117CE9B5A00E3FA7D /* Sources */,
-				31A271B217CE9B5A00E3FA7D /* Frameworks */,
-				31A271B317CE9B5A00E3FA7D /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = ISO8601ForCocoaTouch;
-			productName = ISO8601ForCocoaTouch;
-			productReference = 31A271B517CE9B5A00E3FA7D /* libISO8601ForCocoaTouch.a */;
-			productType = "com.apple.product-type.library.static";
-		};
-		31A271C317CE9B5B00E3FA7D /* ISO8601ForCocoaTouchTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 31A271DA17CE9B5B00E3FA7D /* Build configuration list for PBXNativeTarget "ISO8601ForCocoaTouchTests" */;
-			buildPhases = (
-				31A271BF17CE9B5B00E3FA7D /* Sources */,
-				31A271C017CE9B5B00E3FA7D /* Frameworks */,
-				31A271C117CE9B5B00E3FA7D /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				31A271CA17CE9B5B00E3FA7D /* PBXTargetDependency */,
-			);
-			name = ISO8601ForCocoaTouchTests;
-			productName = ISO8601ForCocoaTouchTests;
-			productReference = 31A271C417CE9B5B00E3FA7D /* ISO8601ForCocoaTouchTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 		31AEAFC817546BC800BD292F /* ISO8601ForCocoa */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 31AEAFEF17546BC900BD292F /* Build configuration list for PBXNativeTarget "ISO8601ForCocoa" */;
@@ -438,8 +349,6 @@
 			targets = (
 				31AEAFC817546BC800BD292F /* ISO8601ForCocoa */,
 				31AEAFDC17546BC800BD292F /* ISO8601ForCocoaTests */,
-				31A271B417CE9B5A00E3FA7D /* ISO8601ForCocoaTouch */,
-				31A271C317CE9B5B00E3FA7D /* ISO8601ForCocoaTouchTests */,
 				027E31B71A52DFCE00802098 /* ISO8601DateFormatter */,
 			);
 		};
@@ -450,14 +359,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		31A271C117CE9B5B00E3FA7D /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				31A271D117CE9B5B00E3FA7D /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -477,28 +378,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				027E31D21A52DFEC00802098 /* ISO8601DateFormatter.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		31A271B117CE9B5A00E3FA7D /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				31A271DC17CE9C5E00E3FA7D /* ISO8601DateFormatter.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		31A271BF17CE9B5B00E3FA7D /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				31A271DB17CE9C3A00E3FA7D /* ISO8601ForCocoaCalendarDateTests.m in Sources */,
-				3904FF2817CF34AE003603D1 /* MBMockLocale.m in Sources */,
-				3904FF2A17CF34AE003603D1 /* NSLocale+UnitTestSwizzling.m in Sources */,
-				31419D9817E08256007B02E2 /* ISO8601ForCocoaWeekDateTests.m in Sources */,
-				3198826517FCF2B0005FB1DA /* ISO8601MemoryWarningTests.m in Sources */,
-				315096C31CC3EB63007E571D /* ISO8601ForCocoaTimeOnlyTests.m in Sources */,
-				312D4C451B9CA7D600FF3602 /* ISO8601Testing.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -526,11 +405,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		31A271CA17CE9B5B00E3FA7D /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 31A271B417CE9B5A00E3FA7D /* ISO8601ForCocoaTouch */;
-			targetProxy = 31A271C917CE9B5B00E3FA7D /* PBXContainerItemProxy */;
-		};
 		31AEAFE217546BC800BD292F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 31AEAFC817546BC800BD292F /* ISO8601ForCocoa */;
@@ -639,104 +513,6 @@
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
-			};
-			name = Release;
-		};
-		31A271D517CE9B5B00E3FA7D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_ARC = NO;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				DSTROOT = /tmp/ISO8601ForCocoaTouch.dst;
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "ISO8601ForCocoaTouch/ISO8601ForCocoaTouch-Prefix.pch";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"$(inherited)",
-					"ISO8601_TESTING_PURPOSES_ONLY=1",
-				);
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos watchsimulator watchos appletvsimulator appletvos";
-				TVOS_DEPLOYMENT_TARGET = 9.0;
-				WATCHOS_DEPLOYMENT_TARGET = 2.0;
-			};
-			name = Debug;
-		};
-		31A271D617CE9B5B00E3FA7D /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_ARC = NO;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				DSTROOT = /tmp/ISO8601ForCocoaTouch.dst;
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "ISO8601ForCocoaTouch/ISO8601ForCocoaTouch-Prefix.pch";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"$(inherited)",
-					"ISO8601_TESTING_PURPOSES_ONLY=1",
-				);
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos watchsimulator watchos appletvsimulator appletvos";
-				TVOS_DEPLOYMENT_TARGET = 9.0;
-				VALIDATE_PRODUCT = YES;
-				WATCHOS_DEPLOYMENT_TARGET = 2.0;
-			};
-			name = Release;
-		};
-		31A271D717CE9B5B00E3FA7D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = (
-					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
-					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
-					"$(inherited)",
-				);
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "ISO8601ForCocoaTouch/ISO8601ForCocoaTouch-Prefix.pch";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"$(inherited)",
-					"ISO8601_TESTING_PURPOSES_ONLY=1",
-				);
-				INFOPLIST_FILE = "ISO8601ForCocoaTouchTests/ISO8601ForCocoaTouchTests-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.boredzo.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos appletvsimulator appletvos";
-			};
-			name = Debug;
-		};
-		31A271D817CE9B5B00E3FA7D /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = (
-					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
-					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
-					"$(inherited)",
-				);
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "ISO8601ForCocoaTouch/ISO8601ForCocoaTouch-Prefix.pch";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"$(inherited)",
-					"ISO8601_TESTING_PURPOSES_ONLY=1",
-				);
-				INFOPLIST_FILE = "ISO8601ForCocoaTouchTests/ISO8601ForCocoaTouchTests-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.boredzo.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos appletvsimulator appletvos";
-				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
@@ -920,24 +696,6 @@
 			buildConfigurations = (
 				027E31CB1A52DFCE00802098 /* Debug */,
 				027E31CC1A52DFCE00802098 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		31A271D917CE9B5B00E3FA7D /* Build configuration list for PBXNativeTarget "ISO8601ForCocoaTouch" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				31A271D517CE9B5B00E3FA7D /* Debug */,
-				31A271D617CE9B5B00E3FA7D /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		31A271DA17CE9B5B00E3FA7D /* Build configuration list for PBXNativeTarget "ISO8601ForCocoaTouchTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				31A271D717CE9B5B00E3FA7D /* Debug */,
-				31A271D817CE9B5B00E3FA7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
