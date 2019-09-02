@@ -62,7 +62,7 @@
 		31AEAFEB17546BC900BD292F /* ISO8601ForCocoaCalendarDateTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ISO8601ForCocoaCalendarDateTests.m; sourceTree = "<group>"; };
 		31AEAFF517546BFA00BD292F /* ISO8601DateFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ISO8601DateFormatter.h; path = ../ISO8601DateFormatter.h; sourceTree = "<group>"; };
 		31AEAFF617546BFA00BD292F /* ISO8601DateFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ISO8601DateFormatter.m; path = ../ISO8601DateFormatter.m; sourceTree = "<group>"; };
-		31D981F31B9E5A35007CF1DA /* ISO8601DateFormatter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ISO8601DateFormatter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		31D981F31B9E5A35007CF1DA /* ISO8601.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ISO8601.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3904FF2317CF34AE003603D1 /* MBMockLocale.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBMockLocale.h; sourceTree = "<group>"; };
 		3904FF2417CF34AE003603D1 /* MBMockLocale.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBMockLocale.m; sourceTree = "<group>"; };
 		3904FF2517CF34AE003603D1 /* NSLocale+UnitTestSwizzling.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSLocale+UnitTestSwizzling.h"; sourceTree = "<group>"; };
@@ -169,7 +169,7 @@
 			children = (
 				31AEAFC917546BC800BD292F /* libISO8601ForCocoa.a */,
 				31AEAFDD17546BC800BD292F /* ISO8601ForCocoaTests.xctest */,
-				31D981F31B9E5A35007CF1DA /* ISO8601DateFormatter.framework */,
+				31D981F31B9E5A35007CF1DA /* ISO8601.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -263,9 +263,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		027E31B71A52DFCE00802098 /* ISO8601DateFormatter */ = {
+		027E31B71A52DFCE00802098 /* ISO8601 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 027E31CF1A52DFCE00802098 /* Build configuration list for PBXNativeTarget "ISO8601DateFormatter" */;
+			buildConfigurationList = 027E31CF1A52DFCE00802098 /* Build configuration list for PBXNativeTarget "ISO8601" */;
 			buildPhases = (
 				027E31B31A52DFCE00802098 /* Sources */,
 				027E31B41A52DFCE00802098 /* Frameworks */,
@@ -276,9 +276,9 @@
 			);
 			dependencies = (
 			);
-			name = ISO8601DateFormatter;
+			name = ISO8601;
 			productName = ISO8601DateFormatter;
-			productReference = 31D981F31B9E5A35007CF1DA /* ISO8601DateFormatter.framework */;
+			productReference = 31D981F31B9E5A35007CF1DA /* ISO8601.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		31AEAFC817546BC800BD292F /* ISO8601ForCocoa */ = {
@@ -349,7 +349,7 @@
 			targets = (
 				31AEAFC817546BC800BD292F /* ISO8601ForCocoa */,
 				31AEAFDC17546BC800BD292F /* ISO8601ForCocoaTests */,
-				027E31B71A52DFCE00802098 /* ISO8601DateFormatter */,
+				027E31B71A52DFCE00802098 /* ISO8601 */,
 			);
 		};
 /* End PBXProject section */
@@ -691,7 +691,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		027E31CF1A52DFCE00802098 /* Build configuration list for PBXNativeTarget "ISO8601DateFormatter" */ = {
+		027E31CF1A52DFCE00802098 /* Build configuration list for PBXNativeTarget "ISO8601" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				027E31CB1A52DFCE00802098 /* Debug */,
